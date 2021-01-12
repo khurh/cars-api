@@ -16,5 +16,6 @@
 
 ## Testing for each service (service and api directories),
 
+- For api, the service server needs to be running
 - For unit testing, run `npm run unit-tests`
 - For integration testing, run `npm run integration-tests`
